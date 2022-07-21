@@ -1,6 +1,6 @@
 # 📂 async-views
 
-Repositório dedicado ao exercício do Módulo 12 "Concorrência em Django" da EBAC. Tratando requisições assíncronas simples com Django, Uvicorn, HTTPX e Asyncio.
+Repositório dedicado ao exercício do Módulo 12 "Concorrência em Django" do curso "Desenvolvedor Back-end Python" da EBAC. Tratando requisições assíncronas simples com Django, Uvicorn, HTTPX e Asyncio.
 
 <br>
 
